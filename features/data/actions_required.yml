@@ -1,0 +1,36 @@
+actions_required_info_01:
+  Title: QNON1 - Hogwarts Express Train Bodies - Action Required
+  Responsibility: Clark Kent
+  Category: Quality Product Performance       
+  Department: Administration
+  Action Required: Find out exactly where this supplier is with regard to their efforts to certify to ISO 13485   
+  Priority: Low
+  Cost: 50996 $
+  Team: Role General Site Activities   
+  Due Date: 15-Jun-2011 
+  Current Status: Complete
+  
+list_info_01:
+  Status: Complete
+  Action: QNON1 - Hogwarts Express Train Bodies - Action Required
+  Priority: Low
+  Responsibility: Clark Kent        
+   
+actions_required_info_02:
+  Title: 30-Sep-2010: Documents - Finding
+  Responsibility: Clark Kent
+  Category: N/A       
+  Department: N/A
+  Action Required: Guideline documents are not available in the system and there is also a lack of documented evidence to support performance against objectives and targets 
+  Priority: N/A
+  Cost: N/A
+  Team: N/A   
+  Due Date: 15-Jun-2011
+  Current Status: Active
+  
+list_info_02:
+  Status: Complete
+  Action: 30-Sep-2010: Documents - Finding
+  Priority: N/A
+  Responsibility: Clark Kent
+

@@ -1,0 +1,3 @@
+class CorporateReportsDetailPage < Page
+
+end

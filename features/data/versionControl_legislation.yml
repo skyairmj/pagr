@@ -1,0 +1,97 @@
+basic_info_01:
+  Type: Legal Requirements
+  Version: 1.0 
+  Approved: 12-Apr-2011 by Clark Kent
+  Title: QLG13 - Hogwarts Express Train Bodies Legal requirement
+  Category: Quality  
+  Status: Not Tracked
+  Legal Requirement Type: Guidance
+  Priority: High
+  Retulatory Authority or Associated Organisation: BSI Management Systems
+  Full Text Location: some text input
+  Details: some text here
+  Relates To: Operation Production  
+  Responsibility: Person Kent, Clark
+  Reporting Requirements: report-req-Due 12-Apr-2011
+  History: 12-Apr-2011 - history title
+  Action Required: actions_required.yml/actions_required_info_02
+  References: System Records QPS1 Space Hopper
+  
+update_info_01:
+  Title: QLG13 - Hogwarts Express Train Bodies Legal requirement - update 
+  Status: Tracking Now
+
+version_info01:
+  New Version Number: 2
+  New Version Description: Update the old version of legal requirements
+
+latest_info_01:
+  Version: 2.0
+  Approved: Unapproved
+  Title: QLG13 - Hogwarts Express Train Bodies Legal requirement - update 
+  Category: Quality  
+  Status: Tracking Now
+  Legal Requirement Type: Guidance
+  Priority: High
+  Retulatory Authority or Associated Organisation: BSI Management Systems
+  Full Text Location: some text input
+  Details: some text here
+  Relates To: Operation Production  
+  Responsibility: Person Kent, Clark
+  Reporting Requirements: report-req-Due 12-Apr-2011
+  History: 12-Apr-2011 - history title
+  Action Required: actions_required.yml/actions_required_info_02
+  References: System Records QPS1 Space Hopper
+  
+history_info01:
+  Title: Hogwarts Express Train Bodies Legal requirement - update
+  Version: 2.0 Unapproved 
+  Date: current time
+  by: the user who updated the record
+  Version Description: Update the old version of legal requirements
+  
+basic_info_02:
+  Type: Other Requirements
+  Version: 1.0 
+  Approved: 12-Apr-2011 by Clark Kent
+  Title: QLG15 - THE ELECTROMAGNETIC COMPATIBILITY REGULATIONS 1992  
+  Category: Quality   
+  Status: None
+  Priority: Low
+  Associated Organisations: BSI Management Systems
+  Document No.: some text and 123 numbers
+  Details: some text here
+  Relates To: Operation Production  
+  Responsibility: Person Kent, Clark
+  Action Required: actions_required.yml/actions_required_info_02
+  References: System Records QPS1 Space Hopper
+
+update_info_02:
+  Title: QLG15 - THE ELECTROMAGNETIC COMPATIBILITY REGULATIONS 1992  - update 
+  Status: Tracking Complete
+
+version_info02:
+  New Version Number: 3
+  New Version Description: Update the old version of other requirements
+
+latest_info_02:
+  Version: 3.0
+  Approved: Unapproved
+  Title: QLG15 - THE ELECTROMAGNETIC COMPATIBILITY REGULATIONS 1992  - update
+  Category: Quality   
+  Status: Tracking Complete
+  Priority: Low
+  Associated Organisations: BSI Management Systems
+  Document No.: some text and 123 numbers
+  Details: some text here
+  Relates To: Operation Production  
+  Responsibility: Person Kent, Clark
+  Action Required: actions_required.yml/actions_required_info_02
+  References: System Records QPS1 Space Hopper
+
+history_info02:
+  Title: THE ELECTROMAGNETIC COMPATIBILITY REGULATIONS 1992  - update
+  Version: 3.0 Unapproved 
+  Date: current time
+  by: the user who updated the record
+  Version Description: Update the old version of other requirements

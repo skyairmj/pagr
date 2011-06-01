@@ -1,0 +1,66 @@
+other_fields:
+    - Action Plans
+    - Batches 
+    - Batches\Nonconf
+    # Will verify after related stories implemented   
+    #     Risk assessment (Globant)
+    #     Test results for batch
+
+owner_edit_fields:
+    - Realisation Planning
+    - Requirements (customer, legal, other)
+    - Change owner
+    - Retention Date
+    - Retention Rationale
+    - Action Plans
+    - Batches
+    - Batches\Nonconf
+    # Will verify after related stories implemented
+    #     Lifetime
+    #     After Sales Support
+    #     Reviews
+    #     Re-approve changed legal/other requirements  
+    #     New version, or make approved 
+    #     Risk assessment (Globant)
+    #     Test results for batch
+
+Administer_edit_fields:
+    - Realisation Planning
+    - Requirements (customer, legal, other)
+    - Action Plans
+    - Change owner
+    - Lock/unlock
+    - Batches
+    - Batches\Nonconf
+    # Will verify after related stories implemented
+    #     Lifetime
+    #     After Sales Support
+    #     Reviews
+    #     Re-approve changed legal/other requirements  
+    #     New version, or make approved 
+    #     Risk assessment (Globant)
+    #     Test results for batch
+
+expected_lifetime_info01:
+    Start Date: 1-Mar-2011 
+    End Date: 30-Jun-2011
+    Rationale: text for rationale
+
+expected_lifetime_info02:
+    Start Date: 18-Feb-2011
+    End Date: N/A
+    Rationale: N/A
+                
+expected_lifetime_info03:
+    Start Date: N/A
+    End Date: 18-Apr-2011
+    Rationale: some text here
+    
+expected_lifetime_info04:
+    Start Date: 1-Feb-2011 
+    End Date: 28-Jun-2011
+    Rationale: text for rationale
+
+ps_record_0:
+    Title: batches feature test
+  

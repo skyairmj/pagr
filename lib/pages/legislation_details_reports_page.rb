@@ -1,0 +1,1 @@
+class LegislationDetailsReportsPage < Page		def should_content record		@base.text.match record['Title']	endend

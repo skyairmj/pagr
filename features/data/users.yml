@@ -1,0 +1,20 @@
+Clark:
+# clark is a system user with alter permission in P&S tool
+  Login Name: clark
+  Password: letmein
+  Surname: Kent
+  Full Name: Clark Kent
+	
+Big:
+# big is another system user with alter permission in P&S tool
+  Login Name: big
+  Password: letmein
+  Surname: Haystacks'
+  Full Name: Giant hello Haystacks'
+
+Zhifang:
+# zhifang is a system user with administer permission in P&S tool
+  Login Name: zfhu
+  Password: zfhu
+  Surname: Hu
+  Full Name: Zhifang Hu

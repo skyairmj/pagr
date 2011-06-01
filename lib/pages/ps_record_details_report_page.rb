@@ -1,0 +1,2 @@
+class PSRecordDetailsReportPage < Page
+end

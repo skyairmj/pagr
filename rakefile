@@ -1,0 +1,37 @@
+require 'rubygems'
+require 'cucumber'
+require 'cucumber/rake/task'
+
+namespace :sample do
+	Cucumber::Rake::Task.new(:local) do |t|
+		t.profile = "default"
+		t.cucumber_opts = 'features\expected_lifetime.feature -t @34 --format pretty'
+	end
+	
+	Cucumber::Rake::Task.new(:qa) do |t|
+		t.profile = "qa"
+		t.cucumber_opts = 'features\expected_lifetime.feature -t @34 --format pretty'
+	end
+	
+	Cucumber::Rake::Task.new(:uat) do |t|
+		t.profile = "uat"
+		t.cucumber_opts = 'features\expected_lifetime.feature -t @34 --format pretty'
+	end
+end
+
+namespace :features do
+  Cucumber::Rake::Task.new(:local) do |t|
+    t.profile = "default"
+		t.cucumber_opts = "features --format pretty --tag ~@Spike"
+  end
+  
+  Cucumber::Rake::Task.new(:qa) do |t|
+    t.profile = "qa"
+		t.cucumber_opts = "features --format pretty --tag ~@Spike"
+  end
+
+  Cucumber::Rake::Task.new(:uat) do |t|
+    t.profile = "uat"
+		t.cucumber_opts = "features --format pretty --tag ~@Spike"
+  end
+end

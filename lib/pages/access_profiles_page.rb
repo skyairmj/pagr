@@ -1,0 +1,3 @@
+class AccessProfilesPage < Page
+
+end
